@@ -2,13 +2,13 @@ from setuptools import setup, find_packages
 
 setup(
     name="topsis_102203427",
-    version="1.0.1",
+    version="1.0.2",
     author="Aditya Raj Singh",
     author_email="aditya003rs@gmail.com",
     description="A Python package for implementing TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution).",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    # url="https://github.com/yourusername/topsis_102203427",  # Replace with your GitHub repository URL
+    url="https://github.com/Aditya-prog-git/TopsisPackage.git",
     packages=find_packages(),
     install_requires=[
         "pandas>=1.0.0",

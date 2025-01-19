@@ -1,8 +1,6 @@
 # **TOPSIS 102203427**
 
-[![PyPI Version](https://img.shields.io/pypi/v/topsis_102203427.svg)](https://pypi.org/project/topsis-102203427/)  
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
+[![PyPI Version](https://img.shields.io/pypi/v/topsis_102203427.svg)](https://pypi.org/project/topsis-102203427/) 
 A Python package for implementing the **Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS)**. This is a multi-criteria decision analysis method that helps in ranking alternatives based on multiple criteria.
 
 ---
